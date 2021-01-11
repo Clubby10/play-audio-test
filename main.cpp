@@ -37,7 +37,7 @@ int main(int argc, char* argv[]) {
 	system("color 3");
 	
 	// audio party
-	cout << "Now Playing - Riot by lil Skies\n";
+	cout << "Audio playing!!!\n";
 	PlaySound("audio.wav", NULL, SND_APPLICATION); // put the wav file in the relase folder of this project or where u download the exe 
 	return 0;
 
